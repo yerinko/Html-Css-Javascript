@@ -42,7 +42,7 @@ a:active {
 ```
 
 ## FOCUS
-선택자 ABC요소가 포커스되면 선택
+선택자 ABC 요소가 포커스되면 선택
 ```
 input:focus {
 	background-color: orange;
